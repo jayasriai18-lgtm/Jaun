@@ -70,10 +70,11 @@
 <body>
 
   <div class="card">
-    <h1>🎉 Happy Birthday ✨</h1>
+    <h1>Happy Birthday ✨</h1>
     <h2>Tharun 💖</h2>
 <h3> Stay happy 😊 always 💥 keep rocking 💫
-My dear😍</h3>
+My dear😍
+This year you achieve all your dreams and great things ❤️‍🔥</h3>
 
     <div class="emoji">
       🎂 🎈 🎁 ✨
